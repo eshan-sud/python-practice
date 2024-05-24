@@ -1,1 +1,2 @@
-# hangman-python
+# Python Practice Mini-Projects
+
